@@ -31,16 +31,10 @@ A full-stack Expense Management System built using Spring Boot, Thymeleaf, MySQL
 
 ---
 
-## 📊 Project Screenshots
-
-(Add your screenshots here later)
-
----
-
 ## ▶️ How To Run
 
 1. Clone repository
-2. Open project in Eclipse/IntelliJ
+2. Open project in Eclipse
 3. Configure MySQL database
 4. Run Spring Boot application
 5. Open:
@@ -53,16 +47,6 @@ http://localhost:8080/login
 
 Username: admin  
 Password: admin123
-
----
-
-## 📌 Future Enhancements
-
-- Spring Security
-- User Registration
-- REST APIs
-- Cloud Deployment
-- Mobile Responsive Design
 
 ---
 
