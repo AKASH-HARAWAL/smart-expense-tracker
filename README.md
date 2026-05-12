@@ -31,6 +31,16 @@ A full-stack Expense Management System built using Spring Boot, Thymeleaf, MySQL
 
 ---
 
+## 📸 Screenshots
+
+### Login Page
+![Login](screenshots/login.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Analytics Chart
+![Chart](screenshots/chart.png)
 ## ▶️ How To Run
 
 1. Clone repository
