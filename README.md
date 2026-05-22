@@ -49,6 +49,7 @@ A full-stack Expense Management System built using Spring Boot, Thymeleaf, MySQL
 4. Run Spring Boot application
 5. Open:
 
+Run locally using:
 http://localhost:8080/login
 
 ---
