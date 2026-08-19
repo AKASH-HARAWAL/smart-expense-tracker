@@ -52,12 +52,6 @@ A full-stack Expense Management System built using Spring Boot, Thymeleaf, MySQL
 Run locally using:
 http://localhost:8080/login
 
----
-
-## 🔐 Login Credentials
-
-Username: admin  
-Password: admin123
 
 ---
 
